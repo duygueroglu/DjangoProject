@@ -56,6 +56,7 @@ cd DjangoProject\todo_project
 
 python manage.py runserver
 ```
+Server will be started at port 8000.  
 ![](https://github.com/duygueroglu/DjangoProject/blob/main/todo_app/img/opening.png)
 
 Used Technologies
